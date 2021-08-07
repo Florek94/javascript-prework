@@ -8,7 +8,7 @@ if(randomNumber == 1){
 else if(randomNumber == 2){
   computerMove = 'papier';
 }
-else(randomNumber == 3){ 
+else if(randomNumber == 3){ 
   computerMove = 'nożyce';
 }
  printMessage('Mój ruch to: ' + computerMove);
