@@ -28,5 +28,4 @@ else if(randomNumber == 3){
  else if(randomNumber == 3){ 
   playerMove = 'nożyce';
 }
- 
  printMessage('Twój ruch to: ' + playerMove);
